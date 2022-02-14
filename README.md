@@ -3,7 +3,7 @@
 
 
 
-Full Presentation can be watched here : https://lcob.mediaspace.kaltura.com/media/BANA%20Case%20Competition%20-%20Data%20Science%20Jobs%20-%20Winning%20Presentation/1_rn7vukbx
+Full Presentation video with tool demo can be watched here : https://lcob.mediaspace.kaltura.com/media/BANA%20Case%20Competition%20-%20Data%20Science%20Jobs%20-%20Winning%20Presentation/1_rn7vukbx
 
 
 Final Deck is also added to this repository
